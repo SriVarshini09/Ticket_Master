@@ -2,7 +2,7 @@
 
 An intelligent customer support ticket routing and management system built with Flask. This application automatically analyzes incoming support tickets and routes them to the appropriate teams based on content, priority, and category.
 
-## ✨ Features
+## Features
 
 - **Intelligent Routing**: Automatically categorizes tickets (billing, technical, account, general)
 - **Priority Detection**: Analyzes urgency and assigns priority levels (high, medium, low)
@@ -232,5 +232,6 @@ For questions or issues:
 3. Test with the provided examples
 
 ---
+
 
 **Built for the modern support team** 🚀
