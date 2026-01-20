@@ -1,4 +1,4 @@
-# 🎫 Support Ticket Router
+#  Support Ticket Router
 
 An intelligent customer support ticket routing and management system built with Flask. This application automatically analyzes incoming support tickets and routes them to the appropriate teams based on content, priority, and category.
 
@@ -12,7 +12,7 @@ An intelligent customer support ticket routing and management system built with 
 - **REST API**: Complete API for integration with other systems
 - **Analytics**: Basic metrics and reporting capabilities
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Option 1: Docker (Recommended)
 
@@ -50,7 +50,7 @@ python app.py
 # Access the application at http://localhost:5000
 ```
 
-## 🏗️ Project Structure
+##  Project Structure
 
 ```
 support-ticket-router/
@@ -109,7 +109,7 @@ GET /api/analytics
 GET /health
 ```
 
-## 🧠 How It Works
+##  How It Works
 
 ### 1. Ticket Analysis
 The system analyzes incoming tickets using keyword-based classification:
@@ -130,7 +130,7 @@ Based on the analysis:
 - Real-time analytics and metrics
 - Responsive design for mobile and desktop
 
-## 🚀 Deployment Options
+##  Deployment Options
 
 ### Heroku
 1. Create a new Heroku app
@@ -235,4 +235,5 @@ For questions or issues:
 
 
 **Built for the modern support team** 🚀
+
 
