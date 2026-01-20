@@ -153,7 +153,7 @@ docker push your-username/ticket-router
 3. Use gunicorn as the WSGI server
 4. Set up systemd service for auto-restart
 
-## 🧪 Testing
+##  Testing
 
 ### Manual Testing
 1. Open the dashboard at `http://localhost:5000`
@@ -235,5 +235,6 @@ For questions or issues:
 
 
 **Built for the modern support team** 🚀
+
 
 
