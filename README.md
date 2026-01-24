@@ -136,7 +136,7 @@ Based on the analysis:
 - Real-time analytics and metrics
 - Responsive design for mobile and desktop
 
-##  Deployment Options
+###   Deployment Options
 
 ### Heroku
 1. Create a new Heroku app
@@ -184,7 +184,7 @@ curl "http://localhost:5000/api/tickets?priority=high"
 curl http://localhost:5000/api/analytics
 ```
 
-## 🔮 Future Enhancements
+###  Future Enhancements
 
 ### Short-term
 - [ ] Add database persistence (PostgreSQL/MongoDB)
@@ -241,6 +241,7 @@ For questions or issues:
 
 
 **Built for the modern support team** 🚀
+
 
 
 
