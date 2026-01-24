@@ -27,7 +27,7 @@ docker-compose up --build
 # Access the application at http://localhost:5000
 ```
 
-### Option 2: Local Development
+### Option   2: Local Development
 
 ```bash
 # Clone the repository
@@ -51,6 +51,9 @@ python app.py
 ```
 
 ##  Project Structure
+
+
+
 
 ```
 support-ticket-router/
@@ -78,6 +81,9 @@ Content-Type: application/json
     "customer_email": "user@example.com"
 }
 ```
+
+
+
 
 ### Get All Tickets
 ```http
@@ -235,6 +241,7 @@ For questions or issues:
 
 
 **Built for the modern support team** 🚀
+
 
 
 
